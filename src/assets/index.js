@@ -1,0 +1,9 @@
+export {default as IcHomeOn} from './icon/ic-home-on.svg';
+export {default as IcHomeOff} from './icon/ic-home.svg';
+export {default as IcBookmarkOn} from './icon/ic-bookmark-on.svg';
+export {default as IcBookmarkOff} from './icon/ic-bookmark.svg';
+export {default as IcProfileOn} from './icon/ic-profile-on.svg';
+export {default as IcProfileOff} from './icon/ic-profile.svg';
+export {default as IcGetStarted} from './icon/ic-getstarted.svg';
+export {default as IcNotif} from './icon/ic-notif.svg';
+export {default as IcSearch} from './icon/ic-search.svg';
